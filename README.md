@@ -1,4 +1,4 @@
-# Active Learning on Data with Contextual Relationships
+# Non-Uniform Subset Selection for Active Learning in Structured Data
 
 ## Overview
 This package is an implementation of the of the paper [Non-Uniform Subset Selection for Active Learning in Structured Data](http://openaccess.thecvf.com/content_cvpr_2017/papers/Paul_Non-Uniform_Subset_Selection_CVPR_2017_paper.pdf), by [Sujoy Paul](www.ee.ucr.edu/~supaul/
